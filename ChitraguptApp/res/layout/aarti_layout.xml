@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin_double" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/txt_aarti_head"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Aarti" />
+
+            <!--
+       <WebView
+        android:id="@+id/webView_aarti_hindi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+            -->
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

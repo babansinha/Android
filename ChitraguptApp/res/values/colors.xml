@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color codes -->
+    <color name="light_blue">#afe8f6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#C1D2DB</color>
+    <color name="lightBlue">#E2EBF4</color>
+    <color name="darkBlue">#070D61</color>
+    <color name="lightgrey">#CBD2D8</color>
+    <color name="middarkBlue">#3C8AC8</color>
+    <color name="blue">#3A00C0</color>
+    <color name="darkgreen">#355A32</color>
+    <color name="green">#00FF00</color>
+    <color name="blue1">#A6D1FB</color>
+    <color name="blue3">#AAD4FF</color>
+    <color name="blue4">#E2F0FD</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="blue6">#7BB3F8</color>
+    <color name="purple">#800080</color>
+    <color name="black">#000000</color>
+    <color name="darkgray">#808080</color>
+
+    <!-- Tabs colors -->
+    <color name="background_tab_pressed">#1AFFFFFF</color>
+    <color name="background_tab_pressed_ripple">#AAFFFFFF</color>
+
+    <!-- Listview selector -->
+    <color name="listview_pressed">#FFdddddd</color>
+    <color name="listview_focused">#FF7dbcd3</color>
+    <color name="listview_checked">#FFededed</color>
+    <color name="pinned_header_text">#FF3c3c3c</color>
+
+</resources>
